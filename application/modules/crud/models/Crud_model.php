@@ -2,7 +2,7 @@
 class Crud_model extends CI_model{
 
     private $table_cruds = cruds_table::sql_tbl_crud;
-    // private $table_cutomers = cruds_table::sql_tbl_customers;
+   
 
     public function __construct()
     {
